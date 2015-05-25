@@ -1,13 +1,13 @@
 {
-  "name": "Telescope",
-  "description": "An open-source community app built with Meteor",
-  "repository": "https://github.com/TelescopeJS/sample-project/",
-  "logo": "http://www.telescopeapp.org/images/logo.png",
-  "keywords": ["meteor", "social", "community"],
+  "name": "wisTunnel",
+  "description": "Direct to Truth",
+  "repository": "git@github.com:Taroka/sample-project.git",
+  "logo": "https://dl.dropboxusercontent.com/u/65151310/Screen%20Shot%202015-05-24%20at%205.05.05%20PM.png",
+  "keywords": ["truth", "chinese", "country"],
   "env": {
-    "BUILDPACK_URL": "https://github.com/AdmitHub/meteor-buildpack-horse.git",
+    "BUILDPACK_URL": "git@github.com:Taroka/sample-project.git",
     "ROOT_URL": {
-      "description": "The full URL of your Telescope app (by default, http://appname.herokuapp.com)."
+      "description": "http://www.wisTunnel.com"
     }
   },
   "addons": [
